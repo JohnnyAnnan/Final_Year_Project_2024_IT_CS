@@ -1,6 +1,7 @@
 streamlit==1.36.0
-pandas==2.2.2
-numpy==1.21.2  # Downgrade numpy to a compatible version
-matplotlib==3.7.2
-scikit-learn==1.2.0
+pandas==1.5.3
+numpy==1.21.6
+matplotlib==3.5.1
+scikit-learn==1.0.2
+
   
